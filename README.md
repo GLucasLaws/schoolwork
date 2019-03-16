@@ -1,6 +1,6 @@
 <body lang="en-AU" dir="ltr"><span class="sd-abs-pos" style="position: absolute; top: 1.56cm; left: 12.99cm; width: 225px">
 <img src="https://i.imgur.com/d5K7M52.jpg" name="Image1" width="225" height="226" border="0"/>
-</span><h1 align="center">
+</span><h1 align="left">
 <br/>
 <br/>
 
