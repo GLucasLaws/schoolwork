@@ -1,18 +1,7 @@
 
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 6.1.5.2 (Linux)"/>
-	<meta name="created" content="2019-03-15T15:51:55.098560510"/>
-	<meta name="changed" content="2019-03-16T20:25:26.416720053"/>
-	<style type="text/css">
-		h5.cjk { font-family: "Noto Serif CJK SC" }
-		h5.ctl { font-family: "Lohit Devanagari" }
-	</style>
 </head>
 <body lang="en-AU" dir="ltr"><span class="sd-abs-pos" style="position: absolute; top: 1.56cm; left: 12.99cm; width: 225px">
-<img src="../Downloads/IMG_20190314_170212.jpg" name="Image1" width="225" height="226" border="0"/>
+<img src="https://i.imgur.com/d5K7M52.jpg" name="Image1" width="225" height="226" border="0"/>
 </span><h1 align="center">
 <br/>
 <br/>
@@ -110,7 +99,7 @@ enjoy.</font></font></p>
 <a href="https://www.seek.com.au/job/38560819?searchrequesttoken=d2d513ae-591e-4011-9f34-730822f93aeb&amp;type=standard" target="_blank"><span style="font-variant: normal"><font color="#1155cc"><font face="Ubuntu"><font size="3" style="font-size: 12pt"><span style="letter-spacing: normal"><span style="font-style: normal"><span style="font-weight: normal">System
 &amp; Network Administrator</span></span></span></font></font></font></span></a></p>
 <p align="left" style="margin-bottom: 0cm"><font face="Ubuntu"><br/>
-<img src="../Downloads/Capture%20Seek.PNG" name="Image2" align="left" width="708" height="845">
+<img src="https://i.imgur.com/LwI80Rv.png?1" name="Image2" align="left" width="708" height="845">
   <br clear="left"/>
 </img>
 <font size="4" style="font-size: 14pt">This
