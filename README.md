@@ -1,5 +1,3 @@
-
-</head>
 <body lang="en-AU" dir="ltr"><span class="sd-abs-pos" style="position: absolute; top: 1.56cm; left: 12.99cm; width: 225px">
 <img src="https://i.imgur.com/d5K7M52.jpg" name="Image1" width="225" height="226" border="0"/>
 </span><h1 align="center">
@@ -8,7 +6,7 @@
 
 </h1>
 <h1 align="center"><font face="Ubuntu">Gemma Lucas-Laws</font></h1>
-<h1 align="center"><a href="mailto:g.lucas.laws@gmail.com"><font face="Ubuntu">g.lucas.laws@gmail.com</font></a></h1>
+<h1 align="center"><a href="mailto:s3775567@student.rmit.edu.au"><font face="Ubuntu">email</font></a></h1>
 <h1 align="center"><font face="Ubuntu">s3775567</font></h1>
 <h1 align="center"><br/>
 <br/>
@@ -101,7 +99,6 @@ enjoy.</font></font></p>
 <p align="left" style="margin-bottom: 0cm"><font face="Ubuntu"><br/>
 <img src="https://i.imgur.com/LwI80Rv.png?1" name="Image2" align="left" width="708" height="845">
   <br clear="left"/>
-</img>
 <font size="4" style="font-size: 14pt">This
 position interests me as it is a high pressure management role. I
 feel that the appeal in positions like this is the broad range of
