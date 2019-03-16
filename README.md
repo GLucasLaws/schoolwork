@@ -1,20 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @GLucasLaws Sign out
-0
-0 0 GLucasLaws/schoolwork
- Code  Issues 0  Pull requests 0  Projects 0  Insights  Settings
-schoolwork/Profile.html
-@GLucasLaws GLucasLaws Add files via upload
-3f3818a  5 minutes ago
-434 lines (414 sloc)  28.7 KB
-  
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
